@@ -4,7 +4,7 @@
 #We can also print the value by using the variable.
 #for example
 
-A = "Hello, My name is Rohit."
+A = "Hello, My name is Rohit Patil."
 B = 2007    
 
 #printing the value of variable
