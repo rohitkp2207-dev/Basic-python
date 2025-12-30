@@ -16,7 +16,7 @@ print(B)
 
 Name = "Rohit"
 Surname = "Patil"
-Full_Name = Name + Surname
+Full_Name = Name + " " +Surname
 Birth_year = B
-print("The Full name is",Full_Name)
-print("Birth year is ", B)
+print("The Full name is :",Full_Name)
+print("Birth year is : ", B)
