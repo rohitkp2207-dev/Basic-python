@@ -20,7 +20,7 @@ print("The remainder is :", a%b)
 print("The exponential is :",a**b)
 print("The integer division is :",a//b)
 
-#Assingment operators :These operators are use to assign the value to the variable or the expressions like =, +=, -=, *=, /=, 
+#2 Assingment operators :These operators are use to assign the value to the variable or the expressions like =, +=, -=, *=, /=, 
 # %=, **=, //= .
 
 # For : equal to =("=")
@@ -32,7 +32,7 @@ print("The integer division is :",a//b)
 # For : exponential assigment = ("**=")
 # For : integer division assigment =("//=") 
 
-# Logical operators: Logical operators are useful to construct compound conditions.
+#3 Logical operators: Logical operators are useful to construct compound conditions.
 # |_Operator_|__Example_____|___________Meaning______________________________________|__Result_____|
 # |__and_____|___x and y____|__and oprator. If x is false, it returns x,_otherwise y_|_____2_______|
 # |__or______|___x or y_____|__or operator. If x is false, it returns y,otherwise x__|_____1_______|
@@ -44,4 +44,13 @@ y = 200
 print(x and y)    #will display 200
 print(x or y)     #will display 100
 print(not x)      #will display false
+
+#We can use these this operators in if else also we will cover this in if else topic
+
+#4 Relational Operators : These operators are used to compare two quantities.Such as >, <, >=, <=, ==, !=
+
+
+
+
+
 
