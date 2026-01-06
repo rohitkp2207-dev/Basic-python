@@ -34,3 +34,19 @@ while Num<=10:
     print(Num)
     Num += 1
 print("End")
+
+#The for loop
+#The for lop is useful to iteratre over the elements of a sequence. 
+#The syntax of for loop is : for var in sequnce :
+                                 #statement
+#To display odd numbers between 1 and 10
+
+for i in range (1, 10, 2):
+    print(i)
+
+#Nested loops:
+# It is possible to write one loop insisde another loop. 
+
+for i in range (3):
+    for j in range (4):
+        print("i =", i, "\t", "j=", j)
