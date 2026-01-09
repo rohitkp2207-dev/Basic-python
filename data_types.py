@@ -6,7 +6,7 @@
 # 1. NONTYPE 
 # In python,the "NonType" datatype represent an object that does not contain any value
 
-# 2. NUMERIC TYPES 
+# 2. NUMERIC TYPES : 
 # The numeric types represent numbers. There are three sub types:
 # int , float , complex
 
@@ -41,26 +41,26 @@ print(A>B)
 print(A==B)
 print(A<B)
 
-# 4. str : This datatype represent string data .  A string is the group of character
+# 4. string : This datatype represent string data .  A string is the group of character
 
 str = "Welcome"
 print(type(str))
 
-# 5. list datatype 
+# 5. list datatype :
 # list is the  group of element which stores different types of elements.
 
 list = [10, -20, 15, 5, "Vijay", "Ajay"]
 print(list)
 print(type(list))
 
-# 6. tuple datatype 
+# 6. tuple datatype :
 # A tuple is similar to a list, can store different tyoe sof elements, but it can't modify. we cannot do any changes in tuple.
 
 tuple = (10, 20, "Vijay", "Ajay")
 print(tuple)
 print(type(tuple))
 
-# 7. Set datatype
+# 7. Set datatype :
 # To create a set, we should enter the elements seprated by commas inside curly braces{}.
 
 s = {10,20,30,40,50,}
